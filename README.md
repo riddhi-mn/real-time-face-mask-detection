@@ -1,6 +1,6 @@
-Comparative analysis of three convolutional neural network (CNN) architectures - tailored for real-time face mask detection. 
+<h2> Comparative analysis of three convolutional neural network (CNN) architectures - tailored for real-time face mask detection. </h2>
 
-<h2> Models Compared: </h2>
+<h3> Models Compared: </h3>
 1)ResNet50 – deeper model, fine-tuned with unfrozen layers.
 2)MobileNetV2 – lightweight, depthwise separable convolutions, trained head-only.
 3)EfficientNetB0 – fully fine-tuned with compound scaling.
